@@ -1,4 +1,4 @@
-setwd("~/Kaggle")
+setwd(getwd())
 train <- read.csv("train.csv")
 View(train)
 test <- read.csv("test.csv")
