@@ -23,3 +23,7 @@ submit <- data.frame(PassengerId = test$PassengerId, Survived = test$Survived)
 
 #create a csv file
 write.csv(submit, "submit.csv", row.names = FALSE)
+
+
+
+#dfşsdkjgflsşadkghfsadşlj
